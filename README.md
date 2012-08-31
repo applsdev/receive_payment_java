@@ -1,4 +1,4 @@
-receive_payment_java
+<h1>Receive Bitcoin Payments Java Example</h1>
 
 ====================
 
